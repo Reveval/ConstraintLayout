@@ -1,0 +1,5 @@
+rootProject.name = "ConstraintLayout"
+include ':app'
+include ':constraintposibility'
+include ':constraintset'
+include ':cloneconstraint'
